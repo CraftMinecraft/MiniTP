@@ -1,0 +1,4 @@
+name: MiniTP
+main: net.craftminecraft.bungee.minitp.MiniTP
+version: ${pom.version}
+author: roblabla
